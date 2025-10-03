@@ -38,7 +38,7 @@
 I’m currently developing a **Church Website** to increase visibility and engagement.  
 **Tech Stack for this project:**  
 - ⚡ **Frontend:** Angular 24  
-- 🔒 **Auth:** Keycloak (Phase 2 integration planned)  
+- 🔒 **Auth:** Keycloak with [Phase 2](https://phasetwo.io/)  
 - 🖥 **Backend:** Spring Boot 3  
 - 🐳 **Containerization:** Docker  
 - ☁️ **Hosting:** Firebase Hosting  
@@ -53,7 +53,7 @@ I’m currently developing a **Church Website** to increase visibility and engag
 ---
 
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mthobisikunene) *Mthobisi Kunene*  
+- 💼 LinkedIn: [*Mthobisi Kunene*](https://www.linkedin.com/in/mthobisikunene)
 - 📧 Email: *mthobisig7@gmail.com*  
 
 ---
