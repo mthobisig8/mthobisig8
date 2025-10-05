@@ -30,7 +30,7 @@
 - Worked on **internal systems** like:  
   - Digitalizing paper-based processes for **medical aid capturing**  
   - Behavioral rewards system investigations in **banking**  
-- Transitioned from cleaner & packer roles (2019) ➝ IT Diploma ➝ Software Developer 🚀  
+- Transitioned ➝ Engineering Degree ➝ Software Developer 🚀  
 
 ---
 
